@@ -6,8 +6,8 @@
 	<!-- Modificar C:\Users\PCT\.m2\settings.xml para cambiar servidor local u online -->
 		
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>ejemploSonar</groupId>
-	<artifactId>ejemploSonar</artifactId>
+	<groupId>proyectoAlbertoPIS2</groupId>
+	<artifactId>proyectoAlbertoPIS2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<properties>
